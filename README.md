@@ -1,2 +1,2 @@
-# React/Redux/Router Starter Project
+# Joseph Green React Portfolio Application
 
